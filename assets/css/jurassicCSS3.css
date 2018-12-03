@@ -145,7 +145,7 @@
             position: fixed;
             width: 650px;
             background-image:url('../images/palmas.png'); 
-            background-repeat:repeat-x;"
+            background-repeat:repeat-x;
             background-size: cover;
             height: 80px;            
             animation-duration: 12s; 

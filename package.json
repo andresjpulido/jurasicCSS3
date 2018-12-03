@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-clean-css": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.1",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresjpulido/jurassicCSS3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresjpulido/jurassicCSS3/issues"
+  },
+  "homepage": "https://github.com/andresjpulido/jurassicCSS3#readme"
+}
